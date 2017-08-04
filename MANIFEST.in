@@ -1,0 +1,5 @@
+prune reduce
+include VERSION
+include reduce/*.py
+include reduce/*.pyx
+
